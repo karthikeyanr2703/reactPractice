@@ -1,0 +1,13 @@
+.imgContainer{
+    width: 60vw;
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+.imgContainer img{
+    width: 200px;
+    height: 130px;
+}
